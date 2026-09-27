@@ -1,0 +1,13 @@
+{
+  "$schema": "../module.schema.json",
+  "Author": "m10x",
+  "Group": "Developer",
+  "SystemName": "M10x.Webshell",
+  "FriendlyName": "Webshell",
+  "Description": "Webshell demo (isolated test environments only)",
+  "Version": "1.0.0",
+  "MinAppVersion": "6.4.0",
+  "Order": 1,
+  "ResourceRootKey": "Plugins.M10x.Webshell",
+  "ProjectUrl": "https://github.com/m10x/Shopware-Extension-Webshell"
+}

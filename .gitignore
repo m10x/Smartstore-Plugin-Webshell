@@ -1,0 +1,5 @@
+[Bb]in/
+[Oo]bj/
+*.user
+.vs/
+Smartstore.Module.M10x.Webshell.*.zip
